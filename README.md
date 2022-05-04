@@ -1,5 +1,5 @@
-Brian van Beusekom
-Bachelor Computer Science @ Utrecht University.
+Brian van Beusekom\
+Bachelor Computer Science @ Utrecht University.\
 Experienced with C#/Java/Python, Interested in Gamedev and Front-end.
 
 <!--
