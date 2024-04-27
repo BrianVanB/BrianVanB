@@ -1,8 +1,6 @@
 Brian van Beusekom\
 Bachelor Computer Science and Game Technology @ Utrecht University.\
-Experienced with C#/Java/Python/JS, Interested in Gamedev and Front-end.
-
-Eager to learn about anything Gamedev/Front-end/Graphics related.
+C# .Net, Angular
 <!--
 **BrianVanB/BrianVanB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
